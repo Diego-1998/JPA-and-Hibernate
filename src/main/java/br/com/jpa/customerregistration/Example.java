@@ -1,6 +1,6 @@
-package br.com.estudo.customerregistration;
+package br.com.jpa.customerregistration;
 
-import br.com.estudo.customerregistration.model.Client;
+import br.com.jpa.customerregistration.model.Client;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

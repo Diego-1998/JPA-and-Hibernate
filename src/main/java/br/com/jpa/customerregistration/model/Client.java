@@ -1,4 +1,4 @@
-package br.com.estudo.customerregistration.model;
+package br.com.jpa.customerregistration.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
